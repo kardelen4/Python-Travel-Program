@@ -1,7 +1,6 @@
 import csv
 import os
 import time
-import requests
 
 
 def clear_screen(wait=False):
